@@ -2,6 +2,8 @@
 	require_once('config/config.php');
 	require_once('config/db.php');
 
+  phpinfo();
+
 	// Check For Submit
 	if(isset($_POST['submit'])){
 		// Get form data
