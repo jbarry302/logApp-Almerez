@@ -2,7 +2,7 @@
 	require_once('config/config.php');
 	require_once('config/db.php');
 
-  phpinfo();
+  // phpinfo();
 
 	// Check For Submit
 	if(isset($_POST['submit'])){

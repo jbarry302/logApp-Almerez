@@ -6,13 +6,14 @@ require_once('config/db.php');
 
 if (isset($_POST['submit'])) {
   $username = mysqli_real_escape_string($conn, $_POST['username']);
+  // $username = $_POST['username'];
   $password = mysqli_real_escape_string($conn, $_POST['password']);
 
   // echo json_encode(array($username, $password)) . '</br>';
 
   $query_str = "SELECT * FROM account WHERE username = '$username' AND password = '$password'";
 
-  // echo $query_str . '</br>';
+  echo $query_str . '</br>';
   $query = mysqli_query($conn, $query_str);
   $result = mysqli_num_rows($query) > 0? mysqli_fetch_assoc($query) : false;
 

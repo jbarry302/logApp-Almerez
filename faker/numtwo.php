@@ -1,7 +1,7 @@
 <?php
 require('vendor/autoload.php');
-require_once('../config/config.php');
-require_once('../config/db.php');
+require_once(dirname(__FILE__) . '\..\config\config.php');
+require_once(dirname(__FILE__) . '\..\config\db.php');
 
 $faker = Faker\Factory::create();
 
