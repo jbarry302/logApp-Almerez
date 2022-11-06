@@ -61,7 +61,7 @@ logApp-Almerez is a simple Covid Tracker website designed to store user's person
 </ol>
 
 ## Issues
-If you spot any mistakes or wrong grammar in this documentation feel free to <a href="https://github.com/jbarry302/logApp-Almerez/issues/new">submit issue</a> it will be much appreciated! :pray:
+If you spot any mistakes or wrong grammar in this documentation feel free to <a href="https://github.com/jbarry302/logApp-Almerez/issues/new">submit an issue</a> or create a branch and <a href="https://github.com/jbarry302/logApp-Almerez/compare">issue a pull request</a> it will be much appreciated! :pray:
 
 
 ## Authors
