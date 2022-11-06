@@ -1,21 +1,33 @@
 # Covid Tracker System
 <p align="left">
-  <img src="https://img.shields.io/github/forks/jbarry302/logApp-Almerez?style=social">
-  <img src="https://img.shields.io/github/stars/jbarry302/logApp-Almerez?style=social">
+  <img src="https://img.shields.io/github/forks/jbarry302/logApp-Almerez?style=social"/>
+  <img src="https://img.shields.io/github/stars/jbarry302/logApp-Almerez?style=social"/>
 </p>
 <p align="left">
-  <img src="https://img.shields.io/github/contributors/jbarry302/logApp-Almerez"> 
-  <img src="https://img.shields.io/github/commit-activity/m/jbarry302/logApp-Almerez">
-  <img src="https://img.shields.io/github/languages/code-size/jbarry302/logApp-Almerez">
-  <img src="https://img.shields.io/github/directory-file-count/jbarry302/logApp-Almerez">
+  <img src="https://img.shields.io/github/contributors/jbarry302/logApp-Almerez"/> 
+  <img src="https://img.shields.io/github/commit-activity/m/jbarry302/logApp-Almerez"/>
+  <img src="https://img.shields.io/github/languages/code-size/jbarry302/logApp-Almerez"/>
+  <img src="https://img.shields.io/github/directory-file-count/jbarry302/logApp-Almerez"/>
 </p>
 
 
 ## Description
-logApp-Almerez is a simple Covid Tracker website designed to track people who may be subject to COVID-19 by storing their personal information
+logApp-Almerez is a simple Covid Tracker website designed to store user's personal information
 
 ## Visuals
-Sample image here
+<b>index.php</b>
+<p align="center">
+  <img src="/img/index.png" alt="img_index"/>
+</p>
+<b>guestbook-login.php</b></br></br>
+<p align="center">
+  <img src="/img/guestbook-login.png" alt="img_login"/>
+</p>
+<b>guestbook-list.php</b></br></br>
+<p align="center">
+  <img src="/img/guestbook-list.png" alt="img_list"/>
+</p>
+
 
 ## Pre-requesites
 <p> <strong>This intruction assumes that you are using Microsoft Windows as operating system.</strong> <i> (if not you may find another resource online on how to setup this project on your preferred OS)</i> </p>
@@ -48,9 +60,17 @@ Sample image here
   <li>after successfully importing the sql file check if the website is running successfully by opening this url in your browser <code>http://localhost/logapp-Almerez</code> if not, please re-check the steps above if you may have missed small details </li>
 </ol>
 
+## Issues
+If you spot any mistakes or wrong grammar in this documentation feel free to <a href="https://github.com/jbarry302/logApp-Almerez/issues/new">submit issue</a> it will be much appreciated! :pray:
+
 
 ## Authors
-list all the contributors/authors for this project
-
+<ul>
+  <li> This project is maintained by <a href="https://github.com/jbarry302">jbarry302</a>:star2: </li>
+</ul>
+<p align="left"> 
+  <img width="300" height="300" alt="img"
+       src="https://scontent.fmnl13-2.fna.fbcdn.net/v/t1.6435-9/132860150_1982552961893251_4321890564824053075_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEPfEAxZnuZ_1FLo--B-4sgPr-BvlYozw0-v4G-VijPDZ612aK1iOSMn5PxLv-ivbU2KV9S8xZVrnD3TWWv97jv&_nc_ohc=axKPbvaiIxwAX93TQxH&_nc_ht=scontent.fmnl13-2.fna&oh=00_AfAoDYhZmAVCsEApPIhF6qqU0KaD6DPi-qMO8xB6Os7z8g&oe=638F08AD" />
+</p>
 
 
