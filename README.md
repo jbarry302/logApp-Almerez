@@ -33,7 +33,7 @@ logApp-Almerez is a simple Covid Tracker website designed to store user's person
 <p> <strong>This intruction assumes that you are using Microsoft Windows as operating system.</strong> <i> (if not you may find another resource online on how to setup this project on your preferred OS)</i> </p>
 
 <ul>
-  <li><a href="https://code.visualstudio.com/download">Vscode</a> </br></li>
+  <!-- <li><a href="https://code.visualstudio.com/download">Vscode</a> </br></li> -->
   <li><a href="https://www.apachefriends.org/download.html">Xampp</a></li>
   <li><a href="https://git-scm.com/download/win">Gitbash</a> <i>(optional: when you choose to fork/clone this project)</i></li>
 </ul>
